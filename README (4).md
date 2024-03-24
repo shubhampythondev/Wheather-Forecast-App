@@ -1,10 +1,9 @@
-
-
 ## Title : CODTECH IT SOLUTIONS 
 
-# Task Documentation : Wheatheer Forecast App 
+# Task Documentation : Wheather Forecast App 
 
 ## Introduction
+
 This documentation provides a detailed explanation of the task assigned during the CodTech IT Solutions internship program. The task involves writing a web development  program for Wheater Forecast. This documentation will cover the implementation details, rationale behind the code structure, and insights into the programming techniques utilized. Additionally, it will include information about the intern, Shubham Choudhary , and his assigned ID, COD4575.
 
 Intern Information: Name: Shubham Choudhary Intern ID: COD4575
